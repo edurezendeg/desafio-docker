@@ -1,6 +1,11 @@
 # desafio-docker
 Desafio FullCycle Docker
 
-A imagem docker pode ser baixada usando o comando 
+## Desafio 1:
 
-docker pull edurezende/codeeducation:latest
+    A imagem docker pode ser baixada usando o comando:
+    ``docker pull edurezende/codeeducation:latest``
+
+## Desafio 2:
+    Para o desafio 2 executar o seguinte comando:
+    ``docker-compose up -d``
